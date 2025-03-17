@@ -27,4 +27,4 @@ wget https://zenodo.org/record/15041913/files/dataset.zip
 ```
 After downloading the dataset, you must unzip the file. Ensure that the extracted ``dataset`` folder is placed in the **same location** as the Jupyter notebook. Additionally, download the ``libs.py`` file from GitHub, which contains essential functions, and place it in the **same location** as the Jupyter notebook.
 
-**Run Notebook:** Finally, you can download the notebook ``Reproduce Figures.ipynb`` and run all cells. This notebook reproduces the figures and processing from the manuscript. 
+**Run Notebook:** Finally, you can open the notebook ``Reproduce Figures.ipynb`` and run all cells. This notebook reproduces the figures and processing from the manuscript. 
