@@ -7,4 +7,8 @@ The cerebral venous system is pivotal in various neurological and vascular condi
 
 ## Instructions
 
-The notebook <code>Reproduce Figures.ipynb</code> reproduces the figures and processing from the manuscript. Currently code to reproduce Figure 3 has been implemented, further code is coming up!
+### Method 1: Google Colab
+To run this notebook in Google Colab, click on this [link](https://colab.research.google.com/drive/1qvfOsakORVPUA9h76S0JtxyM9qzfk8lL?usp=sharing). After you've opened the notebook, run all the cells. This notebook reproduces the figures and processing from the manuscript. 
+
+**Note:** Due to RAM limitations in Google Colab, we have omitted some of the preprocessing steps. If you would like to run the full preprocessing pipeline, please refer to the Jupyter notebook provided in **Method 2**.
+
